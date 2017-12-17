@@ -32,30 +32,41 @@ For our data cleansing process, we mostly used R. We used R-packages like dplyr,
 Once we had our raw data imported into R, we then added the Month variable to our initial data file. We added the Month variable based on the transaction date of each ice cream sale transaction.
 After the months were added to our original data set, we then aggregated the total sales quantity of the data set according to the Months and the Name/Long Description of our transactions. 
 After, the data was aggregated according to the Sales Quantity, we further aggregated our data according to the Brands (i.e. Blue Bell and Other). 
-After, we were done with the data aggregation, we further divided our data set into three different time periods:
-Pre-recall: Period	Month 1 to Month 7
-Recall Period:	Month 8 to Month 15
-Post-recall Period:	Month 16 to Month 24
+After, we were done with the data aggregation, we further divided our data set into three different time periods:  
+Pre-recall: Period	Month 1 to Month 7  
+Recall Period:	Month 8 to Month 15  
+Post-recall Period:	Month 16 to Month 24  
 
 #### Graphical Analysis for the Recall
-![picture1](https://user-images.githubusercontent.com/5343403/34075414-fae09a5a-e28b-11e7-879a-265b26e3cbf2.jpg)
+![picture1](https://user-images.githubusercontent.com/5343403/34075414-fae09a5a-e28b-11e7-879a-265b26e3cbf2.jpg)  
 - Scattered plot
 - Shows the sales of each ice cream product.
 - Blue Bell products not seen in the middle months
-- Prior and post recall, some blue bell ice creams sold really well.
+- Prior and post recall, some blue bell ice creams sold really well.  
+![picture2](https://user-images.githubusercontent.com/5343403/34075423-3b4da574-e28c-11e7-9274-4c0a8ef4b57d.jpg)  
+- Mosaic Plot
+- Shows the total number of products in 3 study stores over the 2 year period.
+- Most Blue Bell products were removed from the stores in middle months
+- Number of Blue Bell Products gradually increased after the recall.
 
-![picture2](https://user-images.githubusercontent.com/5343403/34075423-3b4da574-e28c-11e7-9274-4c0a8ef4b57d.jpg)
+![picture3](https://user-images.githubusercontent.com/5343403/34075425-3e8538c4-e28c-11e7-95d6-391e86ca454e.jpg)  
+- Box Plot
+- Show if the Data has any outliers
+- Shows the skewness of our data  
 
-Mosaic Plot
-Shows the total number of products in 3 study stores over the 2 year period.
-Most Blue Bell products were removed from the stores in middle months
-Number of Blue Bell Products gradually increased after the recall.
+![capture](https://user-images.githubusercontent.com/5343403/34075453-217d562a-e28d-11e7-8dd3-82ebb0f24b09.PNG)  
+![pre](https://user-images.githubusercontent.com/5343403/34075459-4113a93a-e28d-11e7-92f8-e242cd0fbddf.png)  
+- Pre-recall period: Sept ‘14 till April ’15  
+- Sales volume is decreasing towards the end
+![recal](https://user-images.githubusercontent.com/5343403/34075462-4fb92ca8-e28d-11e7-88ac-2fc2eddd0939.png)  
+- Recall Started: April 20, ‘15
+- Total Shutdown: August ‘15 till December ’15
+- Partial recall was made at the beginning of the period
+![post](https://user-images.githubusercontent.com/5343403/34075467-694e9428-e28d-11e7-9de7-5d11b0b5d005.png)  
+- Post-recall period: January ‘16 till August ‘16 
+- The sales of Blue Bell spiked up a little bit towards the end
 
-![picture3](https://user-images.githubusercontent.com/5343403/34075425-3e8538c4-e28c-11e7-95d6-391e86ca454e.jpg)
 
-Box Plot
-Show if the Data has any outliers
-Shows the skewness of our data
 
 
 
