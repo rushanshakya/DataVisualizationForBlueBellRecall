@@ -43,28 +43,21 @@ Post-recall Period:	Month 16 to Month 24
 - Shows the sales of each ice cream product.
 - Blue Bell products not seen in the middle months
 - Prior and post recall, some blue bell ice creams sold really well.  
-![picture2](https://user-images.githubusercontent.com/5343403/34075423-3b4da574-e28c-11e7-9274-4c0a8ef4b57d.jpg)  
+
+![picture2](https://user-images.githubusercontent.com/5343403/34075423-3b4da574-e28c-11e7-9274-4c0a8ef4b57d.jpg)
 - Mosaic Plot
 - Shows the total number of products in 3 study stores over the 2 year period.
 - Most Blue Bell products were removed from the stores in middle months
 - Number of Blue Bell Products gradually increased after the recall.
 
-![picture3](https://user-images.githubusercontent.com/5343403/34075425-3e8538c4-e28c-11e7-95d6-391e86ca454e.jpg)  
+![picture3](https://user-images.githubusercontent.com/5343403/34075425-3e8538c4-e28c-11e7-95d6-391e86ca454e.jpg)
 - Box Plot
 - Show if the Data has any outliers
 - Shows the skewness of our data  
 
-![capture](https://user-images.githubusercontent.com/5343403/34075453-217d562a-e28d-11e7-8dd3-82ebb0f24b09.PNG)  
-![pre](https://user-images.githubusercontent.com/5343403/34075459-4113a93a-e28d-11e7-92f8-e242cd0fbddf.png)  
-- Pre-recall period: Sept ‘14 till April ’15  
-- Sales volume is decreasing towards the end
-![recal](https://user-images.githubusercontent.com/5343403/34075462-4fb92ca8-e28d-11e7-88ac-2fc2eddd0939.png)  
-- Recall Started: April 20, ‘15
-- Total Shutdown: August ‘15 till December ’15
-- Partial recall was made at the beginning of the period
-![post](https://user-images.githubusercontent.com/5343403/34075467-694e9428-e28d-11e7-9de7-5d11b0b5d005.png)  
-- Post-recall period: January ‘16 till August ‘16 
-- The sales of Blue Bell spiked up a little bit towards the end
+![pre1](https://user-images.githubusercontent.com/5343403/34075490-205bbf74-e28e-11e7-84ea-cd36f5334dff.PNG)  
+![recal1](https://user-images.githubusercontent.com/5343403/34075491-29416440-e28e-11e7-9db6-f8ac547a9193.PNG)  
+![post1](https://user-images.githubusercontent.com/5343403/34075492-2ce9ca24-e28e-11e7-86bf-8e345e00dfb8.PNG)  
 
 
 
