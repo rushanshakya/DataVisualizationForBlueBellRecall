@@ -44,7 +44,7 @@ Post-recall Period:	Month 16 to Month 24
 - Blue Bell products not seen in the middle months
 - Prior and post recall, some blue bell ice creams sold really well.  
 
-![picture2](https://user-images.githubusercontent.com/5343403/34075423-3b4da574-e28c-11e7-9274-4c0a8ef4b57d.jpg)
+![mosaic](https://user-images.githubusercontent.com/5343403/34075550-b71e270c-e28f-11e7-9302-89ecefb6a277.jpg)
 - Mosaic Plot
 - Shows the total number of products in 3 study stores over the 2 year period.
 - Most Blue Bell products were removed from the stores in middle months
