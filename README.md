@@ -38,10 +38,27 @@ Recall Period:	Month 8 to Month 15
 Post-recall Period:	Month 16 to Month 24
 
 #### Graphical Analysis for the Recall
+![picture1](https://user-images.githubusercontent.com/5343403/34075414-fae09a5a-e28b-11e7-879a-265b26e3cbf2.jpg)
 - Scattered plot
 - Shows the sales of each ice cream product.
 - Blue Bell products not seen in the middle months
 - Prior and post recall, some blue bell ice creams sold really well.
+
+![picture2](https://user-images.githubusercontent.com/5343403/34075423-3b4da574-e28c-11e7-9274-4c0a8ef4b57d.jpg)
+
+Mosaic Plot
+Shows the total number of products in 3 study stores over the 2 year period.
+Most Blue Bell products were removed from the stores in middle months
+Number of Blue Bell Products gradually increased after the recall.
+
+![picture3](https://user-images.githubusercontent.com/5343403/34075425-3e8538c4-e28c-11e7-95d6-391e86ca454e.jpg)
+
+Box Plot
+Show if the Data has any outliers
+Shows the skewness of our data
+
+
+
 
 
 
