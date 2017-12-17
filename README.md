@@ -9,7 +9,7 @@ Blue Bell is a very popular ice cream brand in the US. In 2015, the company’s 
 - 3rd largest ice cream maker in the US
 
 #### So what happened??
-- Listeria caused deaths reported in OK 
+- Listeria caused deaths reported in Oklahoma
 - Multistate listeria investigation
 - April 20, 2015 – voluntary recall
 - Closed down for 4 months
@@ -21,8 +21,8 @@ Blue Bell is a very popular ice cream brand in the US. In 2015, the company’s 
 - Did Blue Bell recall affect the sales of other ice creams?
 
 #### Sources of Data:
-- 3 grocery stores in LBK
-- 5 mile radius from RCOBA
+- 3 grocery stores in Lubbock, Texas
+- 5 mile radius from Rawls College Of Business, Texas Tech University
 - Daily transaction records
 - Data collected from September 2014 to August 2016
 - 24 months of data
